@@ -1,4 +1,4 @@
-{
+{ 
   "Description": "(SO0030) - The AWS CloudFormation template for deployment of the aws-instance-scheduler, version: v1.4.0",
   "AWSTemplateFormatVersion": "2010-09-09",
   "Metadata": {
