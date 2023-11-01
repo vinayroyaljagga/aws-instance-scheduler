@@ -32,7 +32,7 @@
             "EnableSSMMaintenanceWindows"
           ]
         },
-        {
+        { 
           "Label": {
             "default": "Other parameters"
           },
